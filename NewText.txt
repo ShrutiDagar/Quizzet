@@ -1,0 +1,118 @@
+Q1) The keyword used to transfer control from a function back to the calling function is
+
+Category: C language
+ 
+ You entered     : A) switch
+ 
+ Correct answer  : D) return
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q2) Which of the following is the correct usage of conditional operators used in C?
+
+Category: C language
+ 
+ You entered     : A) a>b ? c=30 : c=40;
+ 
+ Correct answer  : C) max = a>b ? a>c?a:c:b 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q3) The computer address bus is -
+
+Category: Computer Architectur 
+ You entered     : A) Multidirectional
+ 
+ Correct answer  : C) Unidirectional
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q4) The set of all the tracks in the same relative position on the platter is referred to as a
+
+Category: Computer Architectur 
+ You entered     : A) Platter
+ 
+ Correct answer  : C) Cylinder
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q5) The time complexity of enqueue operation in Queue is __
+
+Category: Data Structure
+ 
+ 
+You entered correct answer : A) O(1)
+  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q6) The time complexity of quicksort is ……..
+
+Category: Data Structure
+ 
+ You entered     : A) O(n)
+ 
+ Correct answer  : D) O(n logn)
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q7) What is the maximum number of children that a node can have in a binary tree?
+
+Category: Data Structure
+ 
+ You entered     : A) 3
+ 
+ Correct answer  : D) 2
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q8) Which of the following is a single-user operating system?
+
+Category: Operating System
+ 
+ You entered     : A) Windows
+ 
+ Correct answer  : C) Ms-Dos
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q9) Which one of the following refers to the "data about data"?
+
+Category: Database Management
+ 
+ You entered     : A) Directory
+ 
+ Correct answer  : D) Meta Data
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q10) How is the 3rd element in an array accessed based on pointer notation?
+
+Category: C language
+ 
+ You entered     : A) *a + 3
+ 
+ Correct answer  : B) *(a + 3)
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+ 
+ You got total 4 out of 40 

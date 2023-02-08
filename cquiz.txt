@@ -1,0 +1,299 @@
+Function fopen() with the mode "r+" tries to open the file for __
+
+A) reading and writing
+B) reading and adding new content
+C) only for reading
+D) it works only for directories
+
+A) reading and writing
+Category: C language
+
+Which library function can convert an integer/long to a string?
+
+A) ltoa()
+B) ultoa()
+C) sprintf()
+D) None of the above
+
+A) ltoa()
+Category: C language
+
+The keyword used to transfer control from a function back to the calling function is
+
+A) switch
+B) goto
+C) go back
+D) return
+
+D) return
+Category: C language
+
+Which of the following is the correct usage of conditional operators used in C?
+
+A) a>b ? c=30 : c=40;
+B) a>b ? c=30;
+C) max = a>b ? a>c?a:c:b>c?b:c
+D) return (a>b)?(a:b)
+
+C) max = a>b ? a>c?a:c:b>c?b:c
+Category: C language
+
+In which header file is the NULL macro defined?
+
+A) stdio.h
+B) stddef.h
+C) stdio.h and stddef.h
+D) math.h
+
+C) stdio.h and stddef.h
+Category: C language
+
+Who developed the basic architecture of computers?
+
+A) Blaise Pascal
+B) Charles Babbage
+C) John Von Neumann
+D) None of the above
+
+C) John Von Neumann
+Category: Computer Architecture
+
+The computer address bus is -
+
+A) Multidirectional
+B) Bidirectional
+C) Unidirectional
+D) None of the above
+
+C) Unidirectional
+Category: Computer Architecture
+
+Where does the decoded instruction is stored in?
+
+A) Registers
+B) MDR
+C) IR
+D) PC
+
+C) IR
+Category: Computer Architecture
+
+The address of the instruction following the CALL instructions stored in/on the:
+
+A) Program counter
+B) Stack
+C) Stack Pointer
+D) Accumulator
+
+B) Stack
+Category: Computer Architecture
+
+The set of all the tracks in the same relative position on the platter is referred to as a
+
+A) Platter
+B) Tracks
+C) Cylinder
+D) None of them
+
+C) Cylinder
+Category: Computer Architecture
+
+Which among the following can be considered as the most advanced ROM?
+
+A) DRAM
+B) EEPROM
+C) RAM
+D) PROM
+
+B) EEPROM
+Category: Computer Architecture
+
+The motherboard is also known as
+
+A) electronic board
+B) Printed circuit board(PCB)
+C) Combined device board
+D) CPU board
+
+B) Printed circuit board(PCB)
+Category: Computer Architecture
+
+The CPU chip used in the computer system is made up of
+
+A) Gold
+B) Copper
+C) Silicon
+D) Silver
+
+C) Silicon
+Category: Computer Architecture
+
+The time complexity of enqueue operation in Queue is __
+
+A) O(1)
+B) O(n)
+C) O(logn)
+D) O(nlogn)
+
+A) O(1)
+Category: Data Structure
+
+Which of the following determines the need for the Circular Queue?
+
+A) Avoid wastage of memory
+B) Access the Queue using priority
+C) Follows the FIFO principle
+D) None of the above
+
+A) Avoid wastage of memory
+Category: Data Structure
+
+The access time of a binary search tree may go worse in terms of time complexity upto
+
+A) Ο(n2)
+B) Ο(n log n)
+C) Ο(n)
+D) Ο(1)
+
+C) Ο(n)
+Category: Data Structure
+
+The time complexity of quicksort is ……..
+
+A) O(n)
+B) O(logn)
+C) O(n2)
+D) O(n logn)
+
+D) O(n logn)
+Category: Data Structure
+
+The total number of comparisons in a bubble sort is ___
+
+A) O(n logn)
+B) O(2n)
+C) O(n2)
+D) O(n)
+
+A) O(n logn)
+Category: Data Structure
+
+What is another name for the circular queue among the following options?
+
+A) Square buffer
+B) Rectangle buffer
+C) Ring buffer
+D) None of the above
+
+C) Ring buffer
+Category: Data Structure
+
+What is the maximum number of children that a node can have in a binary tree?
+
+A) 3
+B) 1
+C) 4
+D) 2
+
+D) 2
+Category: Data Structure
+
+who developed the C language?
+
+A) Dennis Ritchie
+B) Ken Thompson
+C) Martin Richards
+D) Bjarne Stroustrup
+
+A) Dennis Ritchie
+Category: C language
+
+When was the first operating system developed?
+
+A) 1948
+B) 1949
+C) 1950
+D) 1951
+
+C) 1950
+Category: Operating System
+
+Which of the following is a single-user operating system?
+
+A) Windows
+B) MAC
+C) Ms-Dos
+D) None of these
+
+C) Ms-Dos
+Category: Operating System
+
+Which one of the following errors will be handled by the operating system?
+
+A) power failure
+B) lack of paper in the printer
+C) connection failure in the network
+D) all of the mentioned
+
+D) all of the mentioned
+Category: Operating System
+
+A huge collection of information or data accumulated from several different sources is known as ________:
+
+A) Data Management
+B) Data Mining
+C) Data Warehouse
+D) Both B and C
+
+C) Data Warehouse
+Category: Database Management
+
+Which one of the following refers to the "data about data"?
+
+A) Directory
+B) Sub Data
+C) Warehouse
+D) Meta Data
+
+D) Meta Data
+Category: Database Management
+
+Which of the following refers to the number of tuples in a relation?
+
+A) Entity
+B) Column
+C) Cardinality
+D) None of the above
+
+C) Cardinality
+Category: Database Management
+
+The term "SQL" stands for
+
+A) Standard query language
+B) Sequential query language
+C) Structured query language
+D) Server-side query language
+
+C) Structured query language
+Category: Database Management
+
+The desktop operating system is also called a___________
+
+A) Single-user operating system
+B) Client operating system
+C) Multi-user operating system
+D) Embedded operating system
+
+B) Client operating system
+Category: Operating System
+
+How is the 3rd element in an array accessed based on pointer notation?
+
+A) *a + 3
+B) *(a + 3)
+C) *(*a + 3)
+D) &(a + 3)
+
+B) *(a + 3)
+Category: C language
